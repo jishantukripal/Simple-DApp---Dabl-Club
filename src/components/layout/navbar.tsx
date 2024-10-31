@@ -4,7 +4,9 @@ import Image from 'next/image';
 import Link from 'next/link';
 import MobileMenu from './mobileMenu';
 import { usePathname } from 'next/navigation';
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 import { Button } from '../ui/button';
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 import { toast } from 'sonner';
 import { ConnectKitButton } from 'connectkit';
 
